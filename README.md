@@ -76,8 +76,6 @@ If you want to reach out to me about anything, be it some doubt or just to hango
 </br>
 </a>
  </p>
- 
-
 </br>
 </br>
 </br>
@@ -85,16 +83,6 @@ If you want to reach out to me about anything, be it some doubt or just to hango
 </br>
 </br>
 </br>
-
-
-
-<p align="center" >  
-  <a href="https://github.com/anuraghazra/github-readme-stats"> 
-<img  src="https://github-readme-stats.vercel.app/api?username=ersaayan&&show_icons=true&theme=radical"/>
-  </a>
-  </p>
-
-*************
 </br>
 </br>
 <p style="width:100%"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ersaayan" alt="ersaayan" /></a></p>
