@@ -83,7 +83,9 @@ If you want to reach out to me about anything, be it some doubt or just to hango
 </br>
 </br>
 </br>
+
 # Trophies
+
 <p style="width:100%"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ersaayan" alt="ersaayan" /></a></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ersaayan&show_icons=true&locale=en&layout=compact" alt="ersaayan" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ersaayan&show_icons=true&locale=en" alt="ersaayan" width="50%" /></p><br />
