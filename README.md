@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Ersa!</h1>
+<h1 align="center">Hey, I'm Eren!</h1>
 
 <p align="center">
   🚀 Full-stack developer • 🧠 API & automation nerd • 🎨 Design enjoyer<br>
