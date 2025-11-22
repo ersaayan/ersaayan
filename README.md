@@ -137,5 +137,3 @@ Open-source collaborations • SaaS architecture discussions • Integration-hea
 <div align="center">
   <sub>Built with precision, caffeine and unnecessary logging</sub>
 </div>
-Hazır.
-İstersen daha minimalist, daha kurumsal veya daha agresif teknik bir versiyonunu da çıkarırım.
